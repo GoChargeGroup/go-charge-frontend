@@ -1,6 +1,11 @@
 {
   "dependencies": {
-    "nativewind": "^2.0.11"
+    "expo": "^51.0.32",
+    "metro": "^0.80.12",
+    "nativewind": "^2.0.11",
+    "react-native": "^0.75.3",
+    "typescript": "~5.3.3",
+    "@types/react": "~18.2.79"
   },
   "devDependencies": {
     "tailwindcss": "^3.3.2"
